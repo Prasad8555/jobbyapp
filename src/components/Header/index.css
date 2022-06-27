@@ -1,0 +1,48 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #272727;
+  padding: 8px;
+}
+
+.nav-items-container {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  width: 65vw;
+}
+
+.home-jobs-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-website-logo {
+  min-width: 40px;
+  max-width: 120px;
+  margin-left: 20px;
+}
+
+.nav-item {
+  margin-right: 10px;
+  color: aliceblue;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+
+.logout-btn {
+  background-color: #4f46e5;
+  font-family: 'Roboto';
+  color: aliceblue;
+  border: 0px solid;
+  height: 30px;
+  margin-right: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.link {
+  text-decoration: none;
+}

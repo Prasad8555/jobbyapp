@@ -1,0 +1,29 @@
+.jobby-app-home-bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.home-heading {
+  color: aliceblue;
+  font-family: 'Roboto';
+  font-size: 5vw;
+  padding: 22px;
+}
+
+.description {
+  width: 50vw;
+  color: aliceblue;
+  font-family: 'Roboto';
+  padding-left: 22px;
+  font-size: 18px;
+}
+
+.find-jobs-btn {
+  background-color: #4f46e5;
+  color: aliceblue;
+  font-family: 'Roboto';
+  padding: 10px;
+  margin-left: 22px;
+  border: 0px solid;
+}

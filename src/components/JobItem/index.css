@@ -1,0 +1,92 @@
+.job-item-container {
+  background-color: #272727;
+  color: #ffffff;
+  list-style-type: none;
+  padding: 10px;
+  border-radius: 12px;
+  margin-bottom: 10px;
+}
+
+.jobby-app-jobs-container {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.app-info-container {
+  display: flex;
+}
+
+.location-type-package-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.location-type-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+}
+
+.company-logo {
+  min-width: 60px;
+  min-height: 60px;
+  max-width: 80px;
+  max-height: 80px;
+  margin: 10px;
+}
+
+.company-name {
+  font-size: 22px;
+  font-family: 'Roboto';
+}
+
+.job-description {
+  font-size: 22px;
+  font-family: 'Roboto';
+}
+
+.location {
+  margin-right: 10px;
+}
+
+.search-bar-container {
+  width: 40vw;
+  display: flex;
+  align-items: center;
+  background-color: #272727;
+  margin-top: 10px;
+}
+
+.search-bar {
+  width: 37vw;
+  padding: 14px;
+  border: 0px solid;
+  color: #ffffff;
+  background-color: #000000;
+  margin-left: 3px;
+}
+
+.search-icon {
+  margin-left: 5px;
+  height: 50px;
+  width: 50px;
+  background-color: #272727;
+  overflow: visible;
+  padding: 10px;
+}
+
+.job-description {
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+
+.description-h {
+  font-family: 'Roboto';
+  font-size: 22px;
+}
+
+.package {
+  align-items: flex-end;
+}
