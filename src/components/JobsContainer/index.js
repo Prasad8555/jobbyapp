@@ -60,7 +60,7 @@ class JobsContainer extends Component {
         <p className="failure-view-description">
           We cannot seem to find the page you are looking for
         </p>
-        <button type="button" className="retry-btn" onClick={getJobs()}>
+        <button type="button" className="retry-btn" onClick={getJobs}>
           Retry
         </button>
       </div>
